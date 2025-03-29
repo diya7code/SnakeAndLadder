@@ -8,3 +8,4 @@ From PIL we are importing the Image :
              It helps in opening and doing basic operations in the image
              Image.open()-It helps to open the image.
              Image.show()-It helps to display the image.
+By using this PIL i wanted to display an image of a Snake and Ladder board(which i found it online),after each time the player has rolled the dice.This will give a rough idea for the players about their current position in the Snake and Ladder board.
